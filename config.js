@@ -48,31 +48,31 @@ exchange_markets['bitfinex'] = '';
 ////
 ////
 // Coinbase markets (set to '' to disable)
-exchange_markets['coinbase'] = 'BTC-USD|ETH-USD|ETH-BTC|SOL-USD'; 
+exchange_markets['coinbase'] = 'KTY-USD'; 
 ////
 //// 
 // Coingecko markets (set to '' to disable)
 // USE COINGECKO'S API ID FOR EACH ASSET! (SEE COINGECKO ASSET PAGE'S INFO SECTION) 
 // PAIRING ASSET MUST BE SUPPORTED BY COINGECKO'S 'vs_currencies' API PARAMETER!
 // FORMAT IS 'api-id-here:symbol/pairing'
-exchange_markets['coingecko'] = 'solana:sol/btc|grape-2:grape/usd|invictus:in/usd|mysterium:myst/usd';
+exchange_markets['coingecko'] = '';
 ////
 ////
 // Binance markets (set to '' to disable)
-exchange_markets['binance'] = 'hntusdt|lrcusdt'; 
+exchange_markets['binance'] = ''; 
 ////
 ////
 // Loopring markets (set to '' to disable) 
-exchange_markets['loopring'] = 'LRC-ETH';
+exchange_markets['loopring'] = '';
 ////
 ////
 // Kraken markets (set to '' to disable)
-exchange_markets['kraken'] = 'ENJ/USD'; 
+exchange_markets['kraken'] = ''; 
 ////
 ////
 // Kucoin markets (set to '' to disable)
 // !!KUCOIN REQUIRES USING THE INSTALL SCRIPT!!
-exchange_markets['kucoin'] = 'MANA-USDT'; 
+exchange_markets['kucoin'] = ''; 
 ////
 ////
 // OKex markets (set to '' to disable) 
@@ -85,11 +85,11 @@ exchange_markets['hitbtc'] = '';
 ////
 ////
 // Bitmart markets (set to '' to disable) 
-exchange_markets['gateio'] = 'SLC_USDT|SLRS_USDT|SAMO_USDT';
+exchange_markets['gateio'] = '';
 ////
 ////
 // Bitmart markets (set to '' to disable) 
-exchange_markets['bitmart'] = 'SG_USDT';
+exchange_markets['bitmart'] = '';
 
 
 // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
