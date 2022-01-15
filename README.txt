@@ -1,3 +1,4 @@
+**Price tracker for Krypto Kitty (KTY), with no changes to the amazing work by Michael Kilday other than configuration for fetching $KTY price from Coinbase.**
 
 Slideshow Crypto Ticker - Developed by Michael Kilday <mike@dragonfrugal.com>, released free / open source (under GPL v3)
 
