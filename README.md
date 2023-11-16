@@ -1,6 +1,9 @@
-**Price tracker for Krypto Kitty (KTY), with no changes to the amazing work by Michael Kilday other than configuration for fetching $KTY price from Coinbase.**
+** BSC Coin Price Tracker for Krypto Kitty (KTY)
 
-Slideshow Crypto Ticker - Developed by Michael Kilday <mike@dragonfrugal.com>, released free / open source (under GPL v3)
+No major changes to the amazing work by Michael Kilday other than configuration for fetching $KTY price from Coinbase.
+
+
+* Slideshow Crypto Ticker - Developed by Michael Kilday <mike@dragonfrugal.com>, released free / open source (under GPL v3)
 
 Copyright 2019-2022 GPLv3
 
